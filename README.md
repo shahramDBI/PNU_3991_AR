@@ -20,14 +20,14 @@
 <a href="https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareArchitecture">1115280_01	معماري نرم افزار	3</a>
 <br>
 <hr>
-<h3>گروه</h3>
+<h3> G-S04 گروه</h3>
 <ul>
    <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/01_%D8%A7%D9%85%D9%8A%D8%AF%20%D8%A7%D9%83%D8%A8%D8%B1%D8%B2%D8%A7%D8%AF%D9%87">SA-01_اميد اكبرزاده</a></li>
-   <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/09_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%AC%D9%85%D8%B4%D9%8A%D8%AF%D9%8A">SA-09_زهرا جمشيدي</a><</li>
-   <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/25_%D8%B3%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D8%B9%D9%84%D9%88%D9%8A%D8%A7%D9%86%20%D8%B2%D9%88">SA-25_سيدرضا علويان زو</a><</li>
-   <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/07_%D8%B3%D9%BE%D9%87%D8%B1%20%D8%AA%D8%B1%D8%A7%D8%A8%D9%8A">SA-07_سپهر ترابي</a><</li>
-   <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/21_%D9%85%D8%AC%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D8%B3%D9%87%20%D9%BE%D9%86%D8%AC">SA-21_مجید رضا سه پنج</a><</li>
-   <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/12_%D8%B4%D9%87%D8%B1%D8%A7%D9%85%20%D8%AF%D8%B1%D8%A8%D9%86%D8%AF%D9%8A">SA-12_شهرام دربندي</a><</li>
+   <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/09_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%AC%D9%85%D8%B4%D9%8A%D8%AF%D9%8A">SA-09_زهرا جمشيدي</a></li>
+   <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/25_%D8%B3%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D8%B9%D9%84%D9%88%D9%8A%D8%A7%D9%86%20%D8%B2%D9%88">SA-25_سيدرضا علويان زو</a></li>
+   <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/07_%D8%B3%D9%BE%D9%87%D8%B1%20%D8%AA%D8%B1%D8%A7%D8%A8%D9%8A">SA-07_سپهر ترابي</a></li>
+   <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/21_%D9%85%D8%AC%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D8%B3%D9%87%20%D9%BE%D9%86%D8%AC">SA-21_مجید رضا سه پنج</a></li>
+   <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/12_%D8%B4%D9%87%D8%B1%D8%A7%D9%85%20%D8%AF%D8%B1%D8%A8%D9%86%D8%AF%D9%8A">SA-12_شهرام دربندي</a></li>
 </ul>   
 <hr>
 <div align="center">
